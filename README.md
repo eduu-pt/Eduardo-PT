@@ -1,2 +1,2 @@
 # Eduardo-PT
- Ejercicios python chulicos
+ Exercises del python chulicos
